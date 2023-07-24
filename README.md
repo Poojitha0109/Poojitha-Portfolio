@@ -1,7 +1,7 @@
 # Hey there 👋
 
 - 👀 I’m Poojitha, a recently graduated student with 4+ years of experience in Python Full stack development and I am actively seeking opportunities in this field
-- 🧠 I'm getting my hands dirty with **Node js, Express js and Flutter**
+- 🧠 Currently getting my hands dirty with **React, Figma, Python, Node js**
 - 📫 How to reach me saipoojitha0109@gmail.com
 - 🤝 I'm open for Front end developer, UI/UX designer, Full stack, DevOps and Python developer roles
 <br>
